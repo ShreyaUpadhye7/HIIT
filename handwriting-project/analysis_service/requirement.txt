@@ -4,3 +4,5 @@ Flask
 Flask-Cors
 Pillow
 python-dotenv
+gunicorn
+opencv-python-headless
