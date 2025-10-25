@@ -1,0 +1,17 @@
+# Python Virtual Environments
+venv/
+*/venv/ 
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+*/.env 
+
+# Temporary files from analysis (if any)
+temp_uploads/ 
+temp/

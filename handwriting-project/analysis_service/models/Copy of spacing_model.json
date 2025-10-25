@@ -1,0 +1,5 @@
+{
+    "very_even_thresh": 30,
+    "slightly_even_thresh": 45,
+    "uneven_thresh": 65
+}
