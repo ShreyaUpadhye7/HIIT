@@ -15,3 +15,5 @@ __pycache__/
 # Temporary files from analysis (if any)
 temp_uploads/ 
 temp/
+
+handwriting-project/analysis_service/hitt-469610-9b19d9d0e081.json
